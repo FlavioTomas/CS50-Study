@@ -1,12 +1,15 @@
 #include "cs50.c"
 #include <stdio.h>
 
-void meow(void){
-    printf("Meow\n");
-}
+void meow(void);
 
 int main(void){
     for (int i = 0; i < 3; i++){
         meow();
     }
+}
+
+
+void meow(void){
+    printf("Meow\n");
 }
