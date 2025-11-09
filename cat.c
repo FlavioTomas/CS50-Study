@@ -2,9 +2,9 @@
 
 
 int main(void){
-    int i = 3;
-    while (i > 0){
+    int i = 0;
+    while (i < 3){
         printf("Meow!\n");
-        i--;
+        i++;
     }
 }
