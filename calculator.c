@@ -7,6 +7,7 @@ void mult(void);
 
 int main(void){
     soma();
+    mult();
 }
 
 
