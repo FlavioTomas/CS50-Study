@@ -4,6 +4,10 @@
 *.exe
 *.dll
 *.so
+a.out
+buggy
+hello2
+output/
 
 # Arquivos do CodeBlocks
 *.cbp
