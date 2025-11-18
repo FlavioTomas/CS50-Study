@@ -5,24 +5,27 @@
 *.dll
 *.so
 a.out
-buggy
-hello2
+core
 output/
+hello2
+buggy2
+# (Adicione nomes específicos de executáveis aqui, se necessário)
 
-# Arquivos do CodeBlocks
+# Arquivos de IDE (Codeblocks)
 *.cbp
 *.depend
 *.layout
 *.save
 *.workspace
 *.project
-
-# Pasta .codeblocks (cache e configurações do CodeBlocks)
 .codeblocks/
 
 # Arquivos do VS Code
+# Mantenha apenas esta linha para cobrir todas as configurações VS Code
 .vscode/
 
-# Arquivos de sistema operacional
+# Arquivos de Sistema operacional e Editores
+*~
+._*
 .DS_Store
 Thumbs.db
