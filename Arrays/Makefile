@@ -8,4 +8,4 @@ scores: scores.c
 	clang scores.c -o scores -lcs50
 
 hi: hi.c
-	clang hi.c -o hi
+	clang hi.c -o hi -lcs50
