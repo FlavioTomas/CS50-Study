@@ -21,3 +21,6 @@ uppercase: uppercase.c
 
 greet: greet.c
 	clang greet.c -o greet -lcs50
+
+status: status.c
+	clang status.c -o status -lcs50
