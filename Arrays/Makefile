@@ -9,3 +9,6 @@ scores: scores.c
 
 hi: hi.c
 	clang hi.c -o hi -lcs50
+
+length: length.c
+	clang length.c -o length -lcs50
