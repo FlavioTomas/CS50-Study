@@ -6,3 +6,6 @@ buggy: buggy.c
 
 scores: scores.c
 	clang scores.c -o scores -lcs50
+
+hi: hi.c
+	clang hi.c -o hi

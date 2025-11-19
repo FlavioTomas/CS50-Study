@@ -9,6 +9,8 @@ core
 output/
 hello2
 buggy2
+scores
+buggy
 # (Adicione nomes específicos de executáveis aqui, se necessário)
 
 # Arquivos de IDE (Codeblocks)
