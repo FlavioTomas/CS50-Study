@@ -12,3 +12,6 @@ hi: hi.c
 
 length: length.c
 	clang length.c -o length -lcs50
+
+string: string.c
+	clang string.c -o string -lcs50
