@@ -18,3 +18,6 @@ string: string.c
 
 uppercase: uppercase.c
 	clang uppercase.c -o uppercase -lcs50
+
+greet: greet.c
+	clang greet.c -o greet -lcs50
