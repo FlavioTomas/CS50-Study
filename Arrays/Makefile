@@ -15,3 +15,6 @@ length: length.c
 
 string: string.c
 	clang string.c -o string -lcs50
+
+uppercase: uppercase.c
+	clang uppercase.c -o uppercase -lcs50
